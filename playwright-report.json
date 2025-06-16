@@ -1,61 +1,61 @@
 {
   "stats": {
-    "expected": 7,
+    "expected": 10,
     "unexpected": 0,
     "skipped": 0,
     "flaky": 0,
-    "duration": 42131
+    "duration": 27265
   },
   "tests": [
     {
       "title": "div.card elementi var mı?",
       "status": "passed",
-      "duration": 1777
+      "duration": 4487
     },
     {
       "title": "ülke bayrağı doğru şekilde eklenmiş mi?",
       "status": "passed",
-      "duration": 1447
+      "duration": 1419
     },
     {
       "title": "div.card-info elementi var mı?",
       "status": "passed",
-      "duration": 1308
+      "duration": 3531
     },
     {
       "title": "ip adresi doğru şekilde h3 tagi ile eklenmiş mi?",
       "status": "passed",
-      "duration": 1383
+      "duration": 1723
     },
     {
       "title": "ülke bilgisi doğru şekilde p tagi ile eklenmiş mi?",
       "status": "passed",
-      "duration": 3461
+      "duration": 1563
     },
     {
       "title": "enlem ve boylam bilgisi metni ve sırası doğru mu?",
       "status": "passed",
-      "duration": 1305
+      "duration": 1312
     },
     {
       "title": "şehir bilgisi metni ve sırası doğru mu?",
       "status": "passed",
-      "duration": 1345
+      "duration": 3441
     },
     {
       "title": "saat dilimi bilgisi metni ve sırası doğru mu?",
-      "status": "timedOut",
-      "duration": 10018
+      "status": "passed",
+      "duration": 2391
     },
     {
       "title": "para birimi bilgisi metni ve sırası doğru mu?",
-      "status": "timedOut",
-      "duration": 10041
+      "status": "passed",
+      "duration": 2653
     },
     {
       "title": "ISP bilgisi metni ve sırası doğru mu?",
-      "status": "timedOut",
-      "duration": 10047
+      "status": "passed",
+      "duration": 4746
     }
   ]
 }
